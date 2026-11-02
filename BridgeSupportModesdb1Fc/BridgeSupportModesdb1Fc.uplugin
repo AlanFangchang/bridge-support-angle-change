@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 6,
+  "VersionName": "0.1.5-demo",
+  "FriendlyName": "Bridge Support Modes",
+  "Description": "Nine support modes for native wooden and carbon bridges: Vanilla, Down 90/45/30, Right 45/30, Left 45/30, None. Press Z to cycle, or Shift+Z to cycle backwards. Respects sandbox support requirements.",
+  "Category": "UGC",
+  "CreatedBy": "AlanFangchang",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "NoCode": true,
+  "IsBetaVersion": true,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "ExplicitlyLoaded": true
+}
